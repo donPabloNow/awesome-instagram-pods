@@ -8,6 +8,7 @@
 - [What are Instagram pods?](#Whatare-Instagram-pods)
 - [The rules of engagement](#The-rules-of-engagement)
 - [Instagram Pods](#Instagram-Pods)
+-- [Wolf Global](#Wolf-Global)
 
 ## What are Instagram pods
 
@@ -29,7 +30,8 @@ Some pods will only allow you to join if you have a certain number of followers,
 
 ## Instagram Pods
 
-### [Wolf Global](https://wolfglobal.org/)
+### Wolf Global
+https://wolfglobal.org/
 Established in 2017, Wolf Global owns and runs some of the largest Instagram engagement pods hosted over at Telegram. All groups are 100% completely free to join.
 
  - Wolf Onyx | Likes  :point_right:🏼 https://t.me/joinchat/Fx4rwj_zwv07r1fOv-wLUA
