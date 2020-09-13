@@ -12,6 +12,8 @@
 -- [AiGrow](#AiGrow)
 -- [Private Network](#Private-Network)
 -- [SocialFollowers](#SocialFollowers)
+- [Automate your Instagram Pod](#Automate-your-Instagram-Pod)
+- [Create your own Instagram Pod](#Create-your-own-Instagram-Pod)
 
 ## What are Instagram pods
 
@@ -339,7 +341,19 @@ Established in 2017, Wolf Global owns and runs some of the largest Instagram eng
  - Super Dx10 Like t.me/joinchat/GThRHxEaTmjw3Ha1EjVAFw
  - The Mom Tribe t.me/joinchat/FuORGkMD9lRyqvuDHP8zhg
  - Women Empowerment Comment & Like t.me/joinchat/Fr4ajEKgX9JFcfOqTmV5tQ
+ 
+## Automate your Instagram Pod
 
+ - Engagebot https://engagebot.pro/ Bot for your automatic telegram groups management!
+ 
+  ... wip
+
+## Create your own Instagram Pod
+
+ -  Fiverr I will create instagram engagement bot for your telegram group https://www.fiverr.com/mircoianese/create-instagram-engagement-bots-for-your-telegram-group
+ - Leechii Bot - A leech detection bot for your Telegram Engagement Groups  https://leechiibot.com/
+ 
+ ... wip
 
 ## Contribute
 
